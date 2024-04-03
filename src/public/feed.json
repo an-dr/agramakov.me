@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Andrei Gramakov - Personal Page",
+  "home_page_url": "https://agramakov.me/",
+  "feed_url": "https://agramakov.me/feed.json",
+  "description": "Personal page of Andrei Gramakov",
+  "favicon": "https://agramakov.me//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Andrei Gramakov",
+    "url": "https://agramakov.me/"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}

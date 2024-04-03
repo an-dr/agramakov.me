@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {},
+    "tasks": {
+        "version": "2.0.0",
+        "tasks": [
+            {
+                "label": "Generate site",
+                "type": "shell",
+                "command": "hugo",
+                "options": {
+                    "cwd": "${workspaceFolder}/src",
+                }
+            },
+            {
+                "label": "Run Server",
+                "type": "shell",
+                "command": "hugo",
+                "args": [
+                    "serve",
+                ],
+                "options": {
+                    "cwd": "${workspaceFolder}/src",
+                }
+            },
+        ]
+    }
+}

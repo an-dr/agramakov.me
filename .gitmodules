@@ -1,0 +1,6 @@
+[submodule "src/themes/hugo-profile"]
+	path = src/themes/hugo-profile
+	url = https://github.com/gurusabarish/hugo-profile.git
+[submodule "src/themes/maverick"]
+	path = src/themes/maverick
+	url = https://github.com/canhtran/maverick.git
