@@ -2,7 +2,7 @@ baseURL = 'https://agramakov.me'
 languageCode = 'en-us'
 paginate = 3
 theme = 'maverick'
-title = 'Andrei Gramakov - Personal Page'
+title = 'Andrei Gramakov - Minimalistic Personal Page'
 
 [permalinks]
 pages = "/:slug"
