@@ -5,17 +5,17 @@
 
 Links: 
 
-- [LinkedIn Profile](http://www.linkedin.com/in/agramakov/)
-- [Portfolio](http://agramakov.me/portfolio)
-- [Download CV (PDF)](http://agramakov.me/cv)
+- [LinkedIn Profile](https://www.linkedin.com/in/agramakov/)
+- [Portfolio](https://agramakov.me/portfolio)
+- [Download CV (PDF)](https://agramakov.me/cv)
 
 ---
 
 ## ⭐ ACTIVITIES
 
-- [github.com/an-dr](http://github.com/an-dr)
-- [agramakov.me/robots](http://agramakov.me/robots)
-- [blog.agramakov.me](http://blog.agramakov.me)
+- [github.com/an-dr](https://github.com/an-dr)
+- [agramakov.me/robots](https://agramakov.me/robots)
+- [blog.agramakov.me](https://blog.agramakov.me)
 
 ---
 
