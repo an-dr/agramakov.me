@@ -20,7 +20,7 @@ menu:
   main:
     - identifier: 'cv-online'
       name: 'CV (Online)'
-      url: 'cv-online'
+      url: '/cv-online'
       weight: -110
     - identifier: 'cv-pdf'
       name: 'CV (PDF)'
