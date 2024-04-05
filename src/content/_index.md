@@ -1,5 +1,8 @@
 ## 💼 EMPLOYMENT
 
+
+<!-- https://michaelcurrin.github.io/badge-generator/#/generic -->
+
 - Senior Embedded Software Engineer at [2N, an AXIS Company](https://www.2n.com/)
 - Location: Prague, Czech Republic
 
@@ -7,7 +10,8 @@ Links:
 
 - [LinkedIn Profile](https://www.linkedin.com/in/agramakov/)
 - [Portfolio](https://agramakov.me/portfolio)
-- [Download CV (PDF)](https://agramakov.me/cv)
+
+[![DOWNLOAD CV (PDF)](https://img.shields.io/badge/DOWNLOAD_CV_(PDF)-blue?style=for-the-badge)](https://agramakov.me/cv)
 
 ---
 
