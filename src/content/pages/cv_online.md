@@ -1,10 +1,8 @@
 ---
 
-title: Experience
+title: CV Online
 
 ---
-
-# CV
 
 <div style="text-align: right">
 Current Version: 05-Apr-2024

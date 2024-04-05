@@ -18,9 +18,13 @@ params:
 
 menu:
   main:
-    - identifier: 'cv'
-      name: 'CV'
-      url: '/experience'
+    - identifier: 'cv-online'
+      name: 'CV (Online)'
+      url: '/cv-online'
+      weight: -110
+    - identifier: 'cv-pdf'
+      name: 'CV (PDF)'
+      url: 'https://agramakov.me/cv'
       weight: -110
     # - identifier: 'posts'
     #   name: 'Post'
