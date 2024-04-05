@@ -1,7 +1,7 @@
 baseURL: 'https://agramakov.me'
 languageCode: 'en-us'
 paginate: 3
-theme: 'maverick'
+theme: 'maverick-mod'
 title: 'Andrei Gramakov - Personal Page'
 
 permalinks:
@@ -20,7 +20,7 @@ menu:
   main:
     - identifier: 'cv'
       name: 'CV'
-      url: 'experience'
+      url: '/experience'
       weight: -110
     # - identifier: 'posts'
     #   name: 'Post'

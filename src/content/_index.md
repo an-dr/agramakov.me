@@ -13,7 +13,7 @@ Links:
 
 [![DOWNLOAD CV (PDF)](https://img.shields.io/badge/DOWNLOAD_CV_(PDF)-blue?style=for-the-badge)](https://agramakov.me/cv)
 
----
+<br>
 
 ## ⭐ ACTIVITIES
 
@@ -21,7 +21,7 @@ Links:
 - [agramakov.me/robots](https://agramakov.me/robots)
 - [blog.agramakov.me](https://blog.agramakov.me)
 
----
+<br>
 
 ## 📨 CONTACTS
 

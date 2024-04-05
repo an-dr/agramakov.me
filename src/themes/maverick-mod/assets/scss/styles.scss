@@ -28,7 +28,19 @@ body {
   top: 0;
 }
 
-h1, h2, h3, h4, h5, strong, b {
+h1{
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.4em;
+}
+
+h4, h5, strong, b {
     font-size: inherit;
     font-weight: 600;
     //text-transform: uppercase;
@@ -82,9 +94,11 @@ pre {
 
 code, pre {
     font-family: San Francisco Mono, Monaco, "Consolas", "Lucida Console","DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
-    font-size: normal;
-    font-size: small;
-    background: #eee
+    font-size: inherit;
+    // font-size: small;
+    background: #e0e0e0;
+    // font color
+    color: #612c2c;
 }
 
 code {
