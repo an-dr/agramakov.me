@@ -7,7 +7,7 @@ url: cv-online
 <div style="text-align: right">
 Current Version: 05-Apr-2024
 
-Latest version (PDF): <a href="[url](https://agramakov.me/cv)">agramakov.me/cv</a> </div>
+Latest version (PDF): <a href="https://agramakov.me/cv">agramakov.me/cv</a> </div>
 
 
 CONTACT INFO
