@@ -1,31 +1,32 @@
-## 💼 EMPLOYMENT
-
+### 💼 EMPLOYMENT
+ 
+ <br>
 
 <!-- https://michaelcurrin.github.io/badge-generator/#/generic -->
 
-- Senior Embedded Software Engineer at [2N, an AXIS Company](https://www.2n.com/)
-- Location: Prague, Czech Republic
+- [2N, an AXIS Company](https://www.2n.com/) - Prague, Czech Republic
+- **Senior Embedded Software Engineer**
+- *[go to portfolio](https://agramakov.me/portfolio)*
 
-Links: 
-
-- [LinkedIn Profile](https://www.linkedin.com/in/agramakov/)
-- [Portfolio](https://agramakov.me/portfolio)
-
-[![DOWNLOAD CV (PDF)](https://img.shields.io/badge/DOWNLOAD_CV_(PDF)-blue?style=for-the-badge)](https://agramakov.me/cv)
 
 <br>
 
-## ⭐ ACTIVITIES
+### ⭐ ACTIVITIES
 
-- [github.com/an-dr](https://github.com/an-dr)
-- [agramakov.me/robots](https://agramakov.me/robots)
-- [blog.agramakov.me](https://blog.agramakov.me)
+ <br>
+
+- Software Engeneering - [github.com/an-dr](https://github.com/an-dr)
+- Robotics - [agramakov.me/robots](https://agramakov.me/robots)
+- Blog - [blog.agramakov.me](https://blog.agramakov.me)
 
 <br>
 
-## 📨 CONTACTS
+### 📨 CONTACTS
 
+ <br>
+
+- LinkedIn: [agramakov](https://www.linkedin.com/in/agramakov/)
 - Email: [mail@agramakov.me](mailto:mail@agramakov.me)
 - Facebook: [andrei.gramakov](https://www.facebook.com/andrei.gramakov)
-- Instagram: [andrei_the_human](https://www.instagram.com/andrei_the_human)
 - Telegram: [@agramakov](https://t.me/agramakov)
+- Instagram: [andrei_the_human](https://www.instagram.com/andrei_the_human)

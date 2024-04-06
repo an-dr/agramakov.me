@@ -1,7 +1,7 @@
 ---
 
-title: CV Online
-
+title: CV - Web Version
+url: cv-online
 ---
 
 <div style="text-align: right">
@@ -10,13 +10,13 @@ Current Version: 05-Apr-2024
 Latest version (PDF): <a href="[url](https://agramakov.me/cv)">agramakov.me/cv</a> </div>
 
 
-`CONTACT INFO`
+CONTACT INFO
 
-- Location: Prague, Czech Republic
-- E-mail: mailto:mail@agramakov.me
-- Phone: +420 725 332 130
+- Location: [Prague, Czech Republic](https://maps.app.goo.gl/KjscVC4VDEHavFrL6)
+- E-mail: [mail@agramakov.me](mailto:mail@agramakov.me)
+- Phone:  <a href="tel:+420725332130">+420 725 332 130</a>
 
-`LINKS`
+LINKS
 
 - LinkedIn: https://www.linkedin.com/in/agramakov/
 - GitHub: https://github.com/an-dr
@@ -60,7 +60,6 @@ and support my team in the development process.
 - `Russian` Native proficiency (C2)
 - `Czech` Elementary proficiency (A2)
 
-
 ## Employment History
 
 ### Senior Embedded Software Engineer 
@@ -91,7 +90,7 @@ I also caused a significant positive impact on the team culture and work process
 
  `C`, `C++`, `Python`, `Git`, `ARM`, `STM32`, `NFC`, `RFID`, `OSDP`, `Jira`, `SCRUM`
 
----
+<br>
 
 ### Senior Embedded Software Engineer
 
@@ -136,7 +135,7 @@ the company. Some of the key initiatives I have undertaken include:
 
 `C`, `C++`, `Python`, `Git`, `ARM`, `ABOS`, `OPC UA`, `PLC`, `MISRA`, `Logix Designer`, `Common Industrial Protocol (CIP)`, `GitLab`, `SAFe`, `SCRUM`
 
----
+<br>
 
 ### Embedded Software Engineer
 
@@ -163,7 +162,7 @@ Extension, OpenOCD)
 `C`, `C++`, `Python`, `Git`, `ESP-IDF`, `USB`, `VSCode Extensions`;
 `Powershell`, `CI`, `Docker`, `GitHub`, `FreeRTOS`, `TinyUSB`, `Xtensa`, `Raspberry Pi`, `Microsoft DAP`, `OpenOCD`
 
----
+<br>
 
 ### Embedded Systems Programmer
 
@@ -189,7 +188,7 @@ Typical tasks:
 
 `C`, `C++`, `Python`, `SVN`, `GIT`, `Cadence`, `SPARC V8`, `RISC-V`, `ARM`, `AMBA`, `I2C`, `SPI`, `RS-232`, `RS-422`, `RS-485`, `SpaceWire`, `CAN`, `RTOS`, `FreeRTOS`
 
----
+<br>
 
 ### Chief Specialist of Flight Test Instrumentation Department
 
@@ -215,7 +214,7 @@ Tasks:
 #### Technology Stack
 `C#`, `XAML`, `Visual Studio`, `MS Access`, `Python`, `MySQL`, `Entity relationship diagram (ERD)`, `Acra KAM-500`, `ARINC 429`, `AFDX`, `Thermal Sensors`
 
----
+<br>
 
 ### Electronics Engineer
 
@@ -237,7 +236,7 @@ current research
 
 `Python`, `SciPy`, `OpenCV`, `Visual Studio`, `Eclipse`, `Octave`, `MATLAB`, `Autodesk Inventor`, `CCD devices`, `IR-, Vis-, UF- imagery devices`, `Raspberry Pi`, `ARM`, `STM32`, `CANbus`, `SPI`, `I2C`, `RS-232`
 
----
+<br>
 
 ### Electronics Engineer 
 
@@ -281,8 +280,8 @@ Tasks:
 
 ## Personal characteristics
 
-proactive, collaborative, positive, enthusiastic, consistent
+`proactive`, `collaborative`, `positive`, `enthusiastic`, `consistent`
 
 ## Hobbies
 
-robotics, wood crafting, art, literature
+`robotics`, `wood crafting`, `fine arts`, `literature`

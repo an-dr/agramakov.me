@@ -2,7 +2,7 @@ baseURL: '/'
 languageCode: 'en-us'
 paginate: 3
 theme: 'maverick-mod'
-title: 'Andrei Gramakov - Personal Page'
+title: 'Andrei Gramakov'
 
 permalinks:
   pages: '/:slug'
