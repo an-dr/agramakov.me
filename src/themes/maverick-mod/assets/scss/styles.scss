@@ -96,9 +96,22 @@ code, pre {
     font-family: San Francisco Mono, Monaco, "Consolas", "Lucida Console","DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
     font-size: inherit;
     // font-size: small;
-    background: #e0e0e0;
+    background: #ececec;
     // font color
-    color: #612c2c;
+    color: #ac0000;
+    // increased borders with rounded corners
+    border: 4px solid #ccc;
+    border-radius: 5px;
+    // padding
+    padding: 0.2rem;
+    // margin
+    margin: 0.2rem;
+    // line height
+    line-height: 1.5;
+    // overflow
+    overflow: auto;
+    // word wrap
+    word-wrap: normal;
 }
 
 code {

@@ -7,8 +7,7 @@ title: CV Online
 <div style="text-align: right">
 Current Version: 05-Apr-2024
 
-Last version (PDF): <a href="[url](https://agramakov.me/cv)">agramakov.me/cv</a> </div>
-
+Latest version (PDF): <a href="[url](https://agramakov.me/cv)">agramakov.me/cv</a> </div>
 
 
 `CONTACT INFO`
@@ -64,12 +63,12 @@ and support my team in the development process.
 
 ## Employment History
 
-### `Senior Embedded Software Engineer` (May 2023 - Now)
+### Senior Embedded Software Engineer 
+**[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company** - Prague, Czech Republic\
+*May 2023 - Now*\
+*~ 1 year*
 
-Company: [2N TELEKOMUNIKACE](https://www.2n.com/), an
-[Axis](https://www.axis.com/) Company (Prague, Czech Republic)
-
-*Firmware development for NFC card readers, fingerprint sensors, and other access control devices. Integration of the devices with the main unit Linux software.* Typical tasks:
+Firmware development for NFC card readers, fingerprint sensors, and other access control devices. Integration of the devices with the main unit Linux software. Typical tasks:
 
 - Firmware development
 - Extensive debugging
@@ -94,17 +93,18 @@ I also caused a significant positive impact on the team culture and work process
 
 ---
 
-### `Senior Embedded Software Engineer` (February 2021 - April 2023)
+### Senior Embedded Software Engineer
 
-Company: [Rockwell Automation](https://www.rockwellautomation.com/)
-(Prague, Czech Republic)
+[**Rockwell Automation**](https://www.rockwellautomation.com/) **- Prague, Czech Republic**\
+*February 2021 - April 2023*\
+*2 years 3 months*
 
 #### Activity
 
 *Development of firmware for industrial automation
 computers. In detail:*
 
-Typical tasks: 
+Typical tasks:
 
 - Development of MISRA-compatible firmware code according to the High-Level documentation
 - Unit tests development
@@ -138,9 +138,11 @@ the company. Some of the key initiatives I have undertaken include:
 
 ---
 
-### `Embedded Software Engineer` (January 2019 - December 2020)
+### Embedded Software Engineer
 
-Company: [Espressif Systems](https://www.espressif.com/) (Brno, Czech Republic)
+**[Espressif Systems](https://www.espressif.com/) - Brno, Czech Republic**\
+*January 2019 - December 2020*\
+*2 years*
 
 Activity: *Development of tools and drivers for ESP-based processors.
 Involved in the development of debugging tools like OpenOCD and GDB.
@@ -163,9 +165,11 @@ Extension, OpenOCD)
 
 ---
 
-### `Embedded Systems Programmer` (January 2018 - September 2018)
+### Embedded Systems Programmer
 
-Company: [Scientific Production Enterprise Digital Solutions](https://dsol.ru/en/) (Moscow, Russia)
+**[Scientific Production Enterprise Digital Solutions](https://dsol.ru/en/) - Moscow, Russia**\
+*January 2018 - September 2018*\
+*9 months*
 
 Activity: *I worked with SPARC and RISC-V-based processors projects,
 and with Sputnik processor (ARM architecture). I developed libraries
@@ -187,9 +191,12 @@ Typical tasks:
 
 ---
 
-### `Chief Specialist of Flight Test Instrumentation Department` (June 2017 - December 2017)
+### Chief Specialist of Flight Test Instrumentation Department
 
-Company: [Sukhoi Civil Aircraft](https://en.wikipedia.org/wiki/Sukhoi_Superjet_100) (Moscow, Russia)
+**[Sukhoi Civil Aircraft](https://en.wikipedia.org/wiki/Sukhoi_Superjet_100) - Moscow, Russia**\
+*June 2017 - December 2017*\
+*7 months*
+
 
 Activity: *I worked with Sukhoi Superjet 100 aircraft. My main duty
 was preparing the Measuring Onboard Systems for qualification trials.
@@ -210,9 +217,11 @@ Tasks:
 
 ---
 
-### `Electronics Engineer` (September 2015 - July 2018)
+### Electronics Engineer
 
-Company: [Bauman Moscow State Technical University](http://www.bmstu.ru/) (Moscow, Russia)
+**[Bauman Moscow State Technical University](http://www.bmstu.ru/) - Moscow, Russia**\
+*September 2015 - July 2018*\
+*3 years 11 months*
 
 Activity: *My main area was in space data processing and recognition
 of the space satellites data. In parallel with work projects, I was
@@ -230,15 +239,17 @@ current research
 
 ---
 
-### `Electronics Engineer` (August 2012 - September 2015)
+### Electronics Engineer 
 
-Company: [Research Institute of Radio-electronic Technologies](http://rlm.bmstu.ru/) (BMSTU) (Moscow, Russia)
+**[Research Institute of Radio-electronic Technologies](http://rlm.bmstu.ru/) (BMSTU) - Moscow, Russia**\
+*August 2012 - September 2015*\
+*3 years 2 months*
 
 Activity: *My work in the Research Institute was in* the *field of
 optoelectronic imagery systems for spacecraft and providing research
 in space satellite imagery systems.*
 
-Tasks: 
+Tasks:
 
 - Preparing on-ground demonstration of the satellite’s (Chibis-M) system with our modification
 - Research and development in space imagery (image recognition)
@@ -248,29 +259,30 @@ Tasks:
 
 `C`, `C++`, `Python`, `ColorForth`, `MATLAB`, `Visual Studio`, `AtmelStudio`, `Autodesk Inventor`, `Arduino`, `AVR`, `CANbus`, `CCD devices`, `CANbus`
 
-
 ## Education
 
-### Master's degree / Specialist degree (September 2007 - Jull 2013)
+### Master's degree / Specialist degree 
 
-[Bauman Moscow State Technical University](http://www.bmstu.ru/)
+**[Bauman Moscow State Technical University](http://www.bmstu.ru/)**\
+*September 2007 - Jull 2013*\
+*6 years*
 
-- **Specialty**: Radio-Electronic Systems and Devices with Specialization in
-Laser Location and Communication Systems
+- **Major**: Radio-Electronic Systems and Devices
+- **Minor**: Laser Location and Communication Systems
 - **Thesis**: "Development of Microsatellite's Onboard Hardware Complex"
 
-### Post-Graduate Program (September 2013 - November 2017, not completed)
+### Ph.D., not completed
 
-[Bauman Moscow State Technical University](http://www.bmstu.ru/)
+**[Bauman Moscow State Technical University](http://www.bmstu.ru/)**\
+*September 2013 - November 2017*\
+*4 years*
 
 - **Thesis**: "Unified Radio- and Optoelectronic Remote Sensing"
 
-## Personal
+## Personal characteristics
 
-**Personal characteristics**: proactive, collaborative, positive, enthusiastic, consistent
+proactive, collaborative, positive, enthusiastic, consistent
 
-**Hobbies**: robotics, wood crafting, art, literature
+## Hobbies
 
---- 
-
-Thank you for your time!
+robotics, wood crafting, art, literature
