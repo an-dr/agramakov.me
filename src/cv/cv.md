@@ -1,7 +1,5 @@
-<div style="text-align: right">
-Current Version: 05-Apr-2024
-
-Latest version (PDF): <a href="https://agramakov.me/cv">agramakov.me/cv</a> </div>
+<div style="text-align: right">Current Version: 05-Apr-2024</div>
+<div style="text-align: right">Latest version (PDF): <a href="https://agramakov.me/cv">agramakov.me/cv</a></div>
 
 CONTACT INFO
 
@@ -33,6 +31,8 @@ and support my team in the development process.
 
 > **Portfolio online**: [agramakov.me/portfolio](https://agramakov.me/portfolio)<br />
 > (code examples, open source projects, etc.)
+
+<br>
 
 |                                   |                                    |
 | ---:                              | ---                                |
