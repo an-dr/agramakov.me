@@ -13,7 +13,7 @@
                 "type": "shell",
                 "command": "hugo",
                 "options": {
-                    "cwd": "${workspaceFolder}/src",
+                    "cwd": "${workspaceFolder}/src/site",
                 }
             },
             {
@@ -24,7 +24,7 @@
                     "serve",
                 ],
                 "options": {
-                    "cwd": "${workspaceFolder}/src",
+                    "cwd": "${workspaceFolder}/src/site",
                 }
             },
         ]
