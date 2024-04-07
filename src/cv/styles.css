@@ -4,7 +4,7 @@
   }
   
   body {
-    font: 1rem/1.5 -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica, helvetica neue, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    font: .8rem/1.2 -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica, helvetica neue, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -43,11 +43,12 @@
   
   h3 {
     font-size: 1.3em;
-    margin-bottom: -1rem;
+    margin-bottom: -.8rem;
   }
   
   h4, h5, strong {
     font-size: inherit;
+    margin-bottom: -.5rem;
     font-weight: 600;
   }
   
@@ -104,7 +105,7 @@
   }
   
   code {
-    margin: 0.1rem;
+    margin: 0.2rem;
     border: none;
   }
   
@@ -272,4 +273,13 @@
     font-size: 0.8 em;
     color: #000;
     text-decoration: underline;
+  }
+
+  p {
+    margin-bottom: -.5rem;
+    text-align: justify;
+  }
+
+  li {
+    text-align: justify;
   }
