@@ -1,4 +1,4 @@
-baseURL: '/'
+baseURL: 'https://agramakov.me'
 languageCode: 'en-us'
 paginate: 3
 theme: 'maverick-mod'
@@ -10,7 +10,7 @@ permalinks:
 params:
   author: 'Andrei Gramakov'
   description: 'Personal page of Andrei Gramakov'
-  logo: '/assets/favicon.ico'
+  logo: '/assets/favicon-package/favicon.ico'
   comments:
     enabled: true
     githubRepo: 'canhtran/maverick'
@@ -20,7 +20,7 @@ menu:
   main:
     - identifier: 'cv-online'
       name: 'CV - Web '
-      url: 'https://agramakov.me/cv-online'
+      url: '/cv-online'
       weight: -110
     - identifier: 'cv-pdf'
       name: 'CV - PDF'

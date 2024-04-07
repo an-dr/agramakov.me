@@ -57,7 +57,7 @@ jobs:
         run: |
           hugo -s ./src/site \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://agramakov.me"
             
       - name: Upload artifact
         uses: actions/upload-artifact@v4
