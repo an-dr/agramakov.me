@@ -11,7 +11,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -44,11 +44,17 @@ jobs:
         run: |
           pandoc -f gfm -t html5 --metadata pagetitle="src/cv/cv.md" --css src/cv/style.css src/cv/cv.md -o cv/Andrei_Gramakov_CV.pdf --pdf-engine-opt=--enable-local-file-access
           
-      - name: Commit & Push changes
-        uses: actions-js/push@master
+      - name: Commit files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -a -m "Update pdf version of CV"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: "Update pdf version of CV"
+          branch: ${{ github.ref }}
 
   # Build job
   build:
