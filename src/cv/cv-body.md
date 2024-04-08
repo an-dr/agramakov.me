@@ -1,7 +1,3 @@
-# Andrei Gramakov - Embedded Systems Engineer
-<!--  -->
-
-<!--  -->
 <div style="text-align: right">Current Version: 05-Apr-2024</div>
 <div style="text-align: right">Latest version (PDF): <a href="https://agramakov.me/cv">agramakov.me/cv</a></div>
 

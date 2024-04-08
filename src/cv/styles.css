@@ -9,7 +9,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     padding: 2rem;
-    background: hsl(93deg, 0%, 96%);
+    background: hsl(0, 0%, 100%);
     color: #000;
   }
   
@@ -33,23 +33,40 @@
   
   h1 {
     font-size: 2em;
+    color: #595959;
+  }
+  h1:first-letter {
+    color: #00b0f0;
+    white-space: nowrap;
   }
   
   h2 {
     font-size: 1.8em;
     margin-top: 3rem;
     margin-bottom: 1rem;
+    color: #595959;
+    /* first letter is blue */
+  }
+  
+  h2:first-letter {
+    color: #00b0f0;
   }
   
   h3 {
     font-size: 1.3em;
     margin-bottom: -.8rem;
+    color: #424242;
   }
   
-  h4, h5, strong {
+  h4, h5 {
     font-size: inherit;
     margin-bottom: -.5rem;
     font-weight: 600;
+  }
+  
+  strong {
+    font-weight: 700;
+    color: #424242;
   }
   
   header {
@@ -77,9 +94,8 @@
     margin: 0;
   }
   
-  a,
-  a:visited {
-    color: #0279a8;
+  a, a:visited {
+    color: #424242;
   }
   
   a:hover,
@@ -97,16 +113,24 @@
   code, pre {
     font-family: San Francisco Mono, Monaco, "Consolas", "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace;
     font-size: inherit;
-    background: #e0e9ee;
-    color: #005555;
-    border-radius: 6px;
-    padding: 0.1rem;
-    word-wrap: false;
+    background: #eeeeee;
+    /* background size */
+    /* background-size: 50%; */
+    color: #006496;
+    font-weight: 600;
+    border-radius: 4px;
+    border: #000;
+    /* border-style: solid; */
+    border-width: 1px;
+    /* padding: -0.3rem; */
+    word-wrap: normal;
   }
+  
+  
   
   code {
     margin: 0.2rem;
-    border: none;
+
   }
   
   ul {
@@ -256,16 +280,23 @@
   table {
     width: 100%;
     border-collapse: collapse;
+    border-radius: 3px;
+    
+    /* border: none; */
   }
   
   th, td {
-    border: 1px solid #dddddd;
+    /* border: 1px solid #dddddd; */
+    border-radius: 3px;
     text-align: left;
     padding: 8px;
   }
   
+  
   th {
     background-color: #f2f2f2;
+    /* hide */
+    display: none;
   }
   
   span {
@@ -276,8 +307,9 @@
   }
 
   p {
-    margin-bottom: -.5rem;
+    margin-bottom: -.4rem;
     text-align: justify;
+    color: #434343;
   }
 
   li {
