@@ -43,7 +43,7 @@ jobs:
       - name: Generate PDF
         run: |
           cat src/cv/cv-header.md src/cv/cv-body.md > src/cv/cv.md
-          pandoc -f gfm -t html5 -V margin-top=5 -V margin-left=10 -V margin-right=10 -V margin-bottom=5 -V papersize=A4 --metadata pagetitle="src/cv/cv.md" --css src/cv/styles.css src/cv/cv.md -o cv/Andrei_Gramakov_CV.pdf --pdf-engine-opt=--enable-local-file-access
+          pandoc -f gfm -t html5 -V margin-top=15 -V margin-left=20 -V margin-right=20 -V margin-bottom=15 -V papersize=A4 --metadata pagetitle="src/cv/cv.md" --css src/cv/styles.css src/cv/cv.md -o cv/Andrei_Gramakov_CV.pdf --pdf-engine-opt=--enable-local-file-access
           rm src/cv/cv.md
           
       - name: Commit files

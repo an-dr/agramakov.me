@@ -29,7 +29,6 @@ and support my team in the development process.
 
 ## Skills
 
-
 > **Portfolio online**: [agramakov.me/portfolio](https://agramakov.me/portfolio)<br />
 > (code examples, open source projects, etc.)
 
@@ -53,6 +52,8 @@ and support my team in the development process.
 - `English` Professional working proficiency (B2)
 - `Russian` Native proficiency (C2)
 - `Czech` Elementary proficiency (A2)
+
+<div style="page-break-after: always;"></div>
 
 ## Employment History
 
@@ -251,6 +252,8 @@ Tasks:
 #### Technology Stack
 
 `C`, `C++`, `Python`, `ColorForth`, `MATLAB`, `Visual Studio`, `AtmelStudio`, `Autodesk Inventor`, `Arduino`, `AVR`, `CANbus`, `CCD devices`, `CANbus`
+
+<div style="page-break-after: always;"></div>
 
 ## Education
 
