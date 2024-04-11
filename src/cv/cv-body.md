@@ -53,6 +53,22 @@ and support my team in the development process.
 - `Russian` Native proficiency (C2)
 - `Czech` Elementary proficiency (A2)
 
+## Education
+
+### Master's degree / Specialist degree
+
+**[Bauman Moscow State Technical University](http://www.bmstu.ru/)** *(2007-2013)*
+
+- **Major**: Radio-Electronic Systems and Devices
+- **Minor**: Laser Location and Communication Systems
+- **Thesis**: "Development of Microsatellite's Onboard Hardware Complex"
+
+### Ph.D., not completed
+
+**[Bauman Moscow State Technical University](http://www.bmstu.ru/)** *(2013-2017)*
+
+- **Thesis**: "Unified Radio- and Optoelectronic Remote Sensing"
+
 <div style="page-break-after: always;"></div>
 
 ## Employment History
@@ -252,28 +268,6 @@ Tasks:
 #### Technology Stack
 
 `C`, `C++`, `Python`, `ColorForth`, `MATLAB`, `Visual Studio`, `AtmelStudio`, `Autodesk Inventor`, `Arduino`, `AVR`, `CANbus`, `CCD devices`, `CANbus`
-
-<div style="page-break-after: always;"></div>
-
-## Education
-
-### Master's degree / Specialist degree 
-
-**[Bauman Moscow State Technical University](http://www.bmstu.ru/)**\
-*September 2007 - Jull 2013*\
-*6 years*
-
-- **Major**: Radio-Electronic Systems and Devices
-- **Minor**: Laser Location and Communication Systems
-- **Thesis**: "Development of Microsatellite's Onboard Hardware Complex"
-
-### Ph.D., not completed
-
-**[Bauman Moscow State Technical University](http://www.bmstu.ru/)**\
-*September 2013 - November 2017*\
-*4 years*
-
-- **Thesis**: "Unified Radio- and Optoelectronic Remote Sensing"
 
 ## Personal
 

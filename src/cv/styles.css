@@ -293,9 +293,8 @@ table {
 th,
 td {
     /* border: 1px solid #dddddd; */
-    border-radius: 3px;
     text-align: left;
-    padding: 8px;
+    padding: 4px;
 }
 
 
