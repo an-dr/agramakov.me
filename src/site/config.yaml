@@ -3,6 +3,7 @@ languageCode: 'en-us'
 paginate: 3
 theme: 'maverick-mod'
 title: 'Andrei Gramakov'
+tableOfContents: true
 
 permalinks:
   pages: '/:slug'
