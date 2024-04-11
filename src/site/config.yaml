@@ -24,7 +24,7 @@ menu:
       weight: -110
     - identifier: 'cv-pdf'
       name: 'CV - PDF'
-      url: 'https://agramakov.me/cv'
+      url: 'https://agramakov.me/cv-pdf'
       weight: -110
     # - identifier: 'posts'
     #   name: 'Post'
