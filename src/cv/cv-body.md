@@ -16,7 +16,7 @@
 
 ## Profile
 
-I am an electronic engineer focused on embedded systems. My experience
+I am an electronics engineer focused on embedded systems. My experience
 includes working in small teams and large multinational corporations in
 different areas - space, aircraft, IoT, industrial automation,
 semiconductors.
