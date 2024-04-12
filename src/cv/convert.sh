@@ -1,3 +1,0 @@
-cat cv-header.md cv-body.md > ./cv.md
-
-pandoc -f gfm -t html5 -V margin-top=15 -V margin-left=20 -V margin-right=20 -V margin-bottom=15 -V papersize=A4 --metadata pagetitle="cv.md" --css styles.css  cv.md -o cv.pdf --pdf-engine-opt=--enable-local-file-access

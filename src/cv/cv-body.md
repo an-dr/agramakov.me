@@ -269,6 +269,8 @@ Tasks:
 
 `C`, `C++`, `Python`, `ColorForth`, `MATLAB`, `Visual Studio`, `AtmelStudio`, `Autodesk Inventor`, `Arduino`, `AVR`, `CANbus`, `CCD devices`, `CANbus`
 
+<div style="page-break-after: always;"></div>
+
 ## Personal
 
 | | |
