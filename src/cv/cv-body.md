@@ -87,14 +87,14 @@ Firmware development for NFC card readers, fingerprint sensors, and other access
 
 #### Achievements
 
-- ***Software architecture development*** for a new version of a card reader.
-- ***Establishing the Unit Testing environment*** and integrating it in the operational process.
-- ***>10 new features*** delivered
+- ***Software architecture development** for a new version of a card reader.*
+- ***Establishing a Unit Testing environment** and integrating it in the operational process.*
+- ***>10 new features** delivered*
 
 I also caused a significant positive impact on the team culture and work process:
 
-- ***Revised polished and crystalized the team development workflow*** according to the AGILE principles.
-- ***Established an effective information exchange I the team*** through a documentation system, established a team book library.*
+- ***Revised polished and crystalized the team development workflow** according to the AGILE principles.*
+- ***Established an effective information exchange in the team** through a team internal documentation, established a team book library.*
 - Actively participating in the ***integration of AI technologies in the company development practices***
 
 #### Technology Stack
