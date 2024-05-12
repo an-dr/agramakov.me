@@ -119,3 +119,4 @@ jobs:
           dry-run: false
           exclude: |
             **/.*
+            blog
