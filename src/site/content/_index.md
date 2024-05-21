@@ -17,7 +17,7 @@
 
 - Software Engeneering - [github.com/an-dr](https://github.com/an-dr)
 - Robotics - [agramakov.me/robots](https://agramakov.me/robots)
-- Blog - [blog.agramakov.me](https://blog.agramakov.me)
+- Blog - [agramakov.me/blog](https://agramakov.me/blog)
 
 <br>
 
