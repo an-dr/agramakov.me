@@ -19,13 +19,20 @@ params:
 menu:
   main:
     - identifier: 'cv-online'
-      name: 'CV - Web '
+      name: 'CV Online'
       url: '/cv-online'
       weight: -110
+      
     - identifier: 'cv-pdf'
-      name: 'CV - PDF'
+      name: 'Download CV'
       url: 'https://agramakov.me/cv-pdf'
       weight: -110
+
+    - identifier: 'blog'
+      name: 'Blog'
+      url: 'https://agramakov.me/blog'
+      weight: -110
+      
     # - identifier: 'posts'
     #   name: 'Post'
     #   url: '/posts/'
