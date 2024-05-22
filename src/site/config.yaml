@@ -19,7 +19,7 @@ params:
 menu:
   main:
     - identifier: 'cv-online'
-      name: 'CV'
+      name: 'CV Page'
       url: '/cv-online'
       weight: -110
       
