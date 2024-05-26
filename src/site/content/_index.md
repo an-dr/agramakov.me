@@ -1,8 +1,6 @@
 ### 💼 EMPLOYMENT
- 
- <br>
 
-<!-- https://michaelcurrin.github.io/badge-generator/#/generic -->
+ <br>
 
 
 - [2N, an AXIS Company](https://www.2n.com/) - Prague, Czech Republic
