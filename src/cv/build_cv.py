@@ -12,14 +12,20 @@ import subprocess
 import pathlib
 import distutils.spawn
 
-def join_files(file_a, file_b, output_file):
+def get_date_string():
+    import datetime
+    # dd-mmm-yyyy
+    return datetime.datetime.now().strftime("%d-%b-%Y")
+
+def build_md(file_a, file_b, output_file):
     with open(file_a, 'r') as file_a:
         with open(file_b, 'r') as file_b:
             with open(output_file, 'w') as output_file:
-                for line in file_a:
-                    output_file.write(line)
-                for line in file_b:
-                    output_file.write(line)
+                content_a = file_a.read()
+                content_b = file_b.read()
+                content_out = content_a + content_b
+                content_out = content_out.replace("DD-MMM-YYYY", get_date_string())
+                output_file.write(content_out)
     return output_file
 
 def convert_md_to_pdf(md_file, pdf_file, css_file, margin_top, margin_bottom, margin_left, margin_right):
@@ -57,7 +63,7 @@ if __name__ == '__main__':
     tmp_md = current_file_root / "cv.md"
     out_pdf = current_file_root / "../../cv/Andrei_Gramakov_CV.pdf"
     
-    join_files(cv_header, cv_body, tmp_md)
+    build_md(cv_header, cv_body, tmp_md)
     convert_md_to_pdf(tmp_md, out_pdf, css, 10, 10, 20, 20)
     
     # remove tmp_md if exists

@@ -28,34 +28,6 @@ defaults:
 
 jobs:
   
-  #Generate pdf
-  gen-pdf:
-    name: 📑 CV - PDF
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Install dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf
-          
-      - name: Generate PDF
-        run: |
-          python src/cv/build_cv.py
-          
-      - name: Commit files
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git commit -a -m "Update pdf version of CV"
-          
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
-
   # Build job
   build:
     name: 🏗️ Build

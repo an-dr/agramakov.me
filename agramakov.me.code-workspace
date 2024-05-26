@@ -27,6 +27,17 @@
                     "cwd": "${workspaceFolder}/src/site",
                 }
             },
+            {
+                "label": "Build CV PDF",
+                "type": "shell",
+                "command": "python",
+                "args": [
+                    "build_cv.py",
+                ],
+                "options": {
+                    "cwd": "${workspaceFolder}/src/cv",
+                }
+            },
         ]
     }
 }
