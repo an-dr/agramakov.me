@@ -11,7 +11,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     padding: 2rem;
-    background: hsl(93deg, 0%, 96%);
+    background: rgb(255, 255, 255);
     color: #000;
 }
 
@@ -35,25 +35,24 @@ b {
 
 h1 {
     font-size: 2em;
-    color: #595959;
+    color: #2659b7;
 }
 
-h1:first-letter {
+/* h1:first-letter {
     color: #00b0f0;
     white-space: nowrap;
-}
+} */
 
 h2 {
     font-size: 1.8em;
     margin-top: 3rem;
     margin-bottom: 1rem;
-    color: #595959;
-    /* first letter is blue */
+    color: #2659b7;
 }
-
+/* 
 h2:first-letter {
     color: #00b0f0;
-}
+} */
 
 h2.post {
     padding-top: 0.5rem;
@@ -62,7 +61,7 @@ h2.post {
 h3 {
     font-size: 1.3em;
     margin-bottom: -1rem;
-    color: #424242;
+    color: #2659b7;
 }
 
 h4,
@@ -105,12 +104,13 @@ blockquote {
 
 a,
 a:visited {
-    color: #0279a8;
+    color: #f42471;
 }
 
 a:hover,
 a.heading-link {
     text-decoration: none;
+    color: #00bab3;
 }
 
 pre {
