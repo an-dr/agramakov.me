@@ -1,4 +1,4 @@
-### 💼 EMPLOYMENT
+### EMPLOYMENT
 
  <br>
 
@@ -11,7 +11,7 @@
 
 <br>
 
-### ⭐ ACTIVITIES
+### ACTIVITIES
 
  <br>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-### 📨 CONTACTS
+### CONTACTS
 
  <br>
 
