@@ -102,7 +102,7 @@ I also caused a significant positive impact on the team culture and work process
 
 ### Senior Embedded Software Engineer
 
-[**Rockwell Automation**](https://www.rockwellautomation.com/) **- Prague, Czech Republic**\
+**[Rockwell Automation](https://www.rockwellautomation.com/)** - Prague, Czech Republic**\
 *February 2021 - April 2023*\
 *2 years 3 months*
 
