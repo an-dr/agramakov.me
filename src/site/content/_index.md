@@ -14,7 +14,7 @@
 
  <br>
 
-- Software Engeneering - [github.com/an-dr](https://github.com/an-dr)
+- Software Engineering - [github.com/an-dr](https://github.com/an-dr)
 - Robotics - [agramakov.me/robots](https://agramakov.me/robots)
 - Blog - [agramakov.me/blog](https://agramakov.me/blog)
 
