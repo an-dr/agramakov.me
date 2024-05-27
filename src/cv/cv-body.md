@@ -71,7 +71,7 @@ and support my team in the development process.
 ## Employment History
 
 ### Senior Embedded Software Engineer 
-**[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company** - Prague, Czech Republic\
+**[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
 *May 2023 - Now*\
 *~ 1 year*
 
@@ -102,7 +102,7 @@ I also caused a significant positive impact on the team culture and work process
 
 ### Senior Embedded Software Engineer
 
-**[Rockwell Automation](https://www.rockwellautomation.com/)** - Prague, Czech Republic**\
+**[Rockwell Automation](https://www.rockwellautomation.com/) - Prague, Czech Republic**\
 *February 2021 - April 2023*\
 *2 years 3 months*
 
@@ -120,8 +120,7 @@ Typical tasks:
 
 #### Achievements
 
-- ***Development features by design requirements*** (about **80 closed
-stories**):
+- ***Development features by design requirements*** (about **80 closed stories**):
     - *Sequence Manager - an entity for organizing complex
     technological processes into easily manageable sequences and
     subsequently, provide step-by-step implementations for each sequence.*

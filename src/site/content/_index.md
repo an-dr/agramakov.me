@@ -2,7 +2,6 @@
 
  <br>
 
-
 - [2N, an AXIS Company](https://www.2n.com/) - Prague, Czech Republic
 - Senior Embedded Software Engineer ([*details*](https://agramakov.me/cv-online/#employment-history))
 - *[go to portfolio](https://agramakov.me/portfolio)*

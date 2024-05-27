@@ -18,26 +18,17 @@ params:
 
 menu:
   main:
-    - identifier: 'blog'
-      name: 'BLOG'
+    - name: 'BLOG'
       url: 'https://agramakov.me/blog'
       weight: -100
       
-    - identifier: 'cv-online'
-      name: 'CV PAGE'
-      url: '/cv-online'
+    - name: 'CV PAGE'
+      pageRef: /cv-online
       weight: -110
       
-    #- identifier: 'cv-pdf'
-    #  name: 'CV PDF'
+    #- name: 'CV PDF'
     #  url: 'https://agramakov.me/cv-pdf'
     #  weight: -110
-
-      
-    # - identifier: 'posts'
-    #   name: 'Post'
-    #   url: '/posts/'
-    #   weight: -200
 
 markup:
   goldmark:
