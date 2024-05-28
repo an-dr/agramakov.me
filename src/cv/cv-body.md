@@ -96,7 +96,7 @@ I also caused a significant positive impact on the team culture and work process
 
 #### Technology Stack
 
- `C`, `C++`, `Python`, `Git`, `ARM`, `STM32`, `NFC`, `RFID`, `OSDP`, `Jira`, `SCRUM`
+`C`, `C++`, `Python`, `Git`, `ARM`, `STM32`, `NFC`, `RFID`, `OSDP`, `Jira`, `SCRUM`
 
 <br>
 
@@ -203,7 +203,6 @@ Typical tasks:
 *June 2017 - December 2017*\
 *7 months*
 
-
 Activity: *I worked with Sukhoi Superjet 100 aircraft. My main duty
 was preparing the Measuring Onboard Systems for qualification trials.
 I programmed aircraft systems according to the sensor set, developed SQL
@@ -271,5 +270,5 @@ Tasks:
 
 | | |
 | --- | --- |
-| **Personal characteristics** | `proactive`, `collaborative`, `team player`, `positive`, `enthusiastic`, `consistent`, `detail-oriented` |
-| **Hobbies** | `robotics`, `wood crafting`, `fine arts`, `literature` |
+| **Personal characteristics** |`proactive`, `collaborative`, `team player`, `positive`, `enthusiastic`, `consistent`, `detail-oriented` |
+| **Hobbies** |`robotics`, `wood crafting`, `fine arts`, `literature` |
