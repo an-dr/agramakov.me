@@ -43,7 +43,8 @@ body {
 
 b {
     color: var(--dark-blue);
-    font-size: 1.4em;
+    font-size: 1.3em;
+    font-weight: 600;
     transition: 0.2s;
 }
 
@@ -214,6 +215,7 @@ header ul {
 header li,
 header a {
     display: inline;
+    vertical-align: middle;
 }
 
 
@@ -330,7 +332,7 @@ th {
 }
 
 span {
-    font-weight: 800;
+    font-weight: 600;
     color: #8c8c8c;
     font-size: 0.8 em;
     text-decoration: none;
