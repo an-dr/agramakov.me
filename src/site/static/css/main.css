@@ -215,7 +215,8 @@ header ul {
 header li,
 header a {
     display: inline;
-    vertical-align: middle;
+    height: 30px;
+    line-height: 30px;
 }
 
 
@@ -269,29 +270,6 @@ img {
     color: #9a9a9a;
 }
 
-.animate-blink {
-    animation: opacity 1s infinite;
-    opacity: 1;
-    color: #00000000;
-    margin-left: -5%;
-    font-size: 1.4em;
-    text-decoration: none;
-}
-
-@keyframes opacity {
-    0% {
-        opacity: 1;
-    }
-
-    50% {
-        opacity: 0.5;
-    }
-
-    100% {
-        opacity: 0;
-    }
-}
-
 .tags {
     display: flex;
     justify-content: space-between;
@@ -318,13 +296,19 @@ img {
 table {
     width: 100%;
     border-collapse: collapse;
+    border: #000;
 }
 
 th,
 td {
     text-align: left;
+    vertical-align: top;
     padding: 4px;
+    border-bottom: solid 1px var(--teal); 
+    border-top: solid 1px var(--teal); 
+    /* border-left: solid 1px #f00; */
 }
+
 
 th {
     background-color: #f2f2f2;
