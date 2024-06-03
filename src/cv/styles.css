@@ -6,7 +6,7 @@
 }
 
 body {
-    font: .8rem/1.2 Calibri, -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica, helvetica neue, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+    font: .8rem/1.2 Arial;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -26,25 +26,26 @@ body {
     top: 0;
 }
 
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Cambria';
+}
+
 h1,h2 {
     font-weight: 800;
 }
 
 h3,h4,h5,h6 {
     font-weight: 800;
-    color:#313131;
 }
 
 h1 {
     font-size: 2em;
-    color:#707070;
 }
 
 h2 {
-    color:#424242;
     font-size: 1.8em;
     text-transform: uppercase;
-    margin-top: 3rem;
+    margin-top: 2rem;
     margin-bottom: 1rem;
 }
 
@@ -66,7 +67,6 @@ h5 {
 
 strong {
     font-weight: 700;
-    color: #000000;
 }
 
 header {
@@ -298,7 +298,7 @@ span {
 }
 
 p {
-    margin-bottom: -.4rem;
+    margin-bottom: 0rem;
     text-align: justify;
     color: #000000;
 }

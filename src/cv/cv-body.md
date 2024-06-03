@@ -73,7 +73,7 @@ and support my team in the development process.
 ### Senior Embedded Software Engineer 
 **[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
 *May 2023 - Now*\
-*~ 1 year*
+*> 1 year 1 month*
 
 Firmware development for NFC card readers, fingerprint sensors, and other access control devices. Integration of the devices with the main unit Linux software. Typical tasks:
 
