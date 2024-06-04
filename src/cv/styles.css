@@ -298,7 +298,7 @@ span {
 }
 
 p {
-    margin-bottom: 0rem;
+    margin-bottom: -0.1rem;
     text-align: justify;
     color: #000000;
 }
