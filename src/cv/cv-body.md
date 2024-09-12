@@ -70,10 +70,28 @@ and support my team in the development process.
 
 ## Employment History
 
-### Senior Embedded Software Engineer 
+### Software Architect
+
+**[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
+*June 2024 - Now*\
+*> 3 month*
+
+Extra responsibilities to the Senior Embedded Software Engineer position:
+
+- Developing and reinforcing the software architecture: software structure, high-level concept, quality attributes, etc.
+- Enhancing the development process to ensure code quality and maintainability.
+- Setting and upholding quality standards.
+- Decomposing work into initial tasks.
+- Creating high-level software documentation.
+- Crafting stories focused on maintenance and code quality.
+- Managing technical debt and advocating for its prioritization.
+- Coordinating and aligning with other architects.
+
+### Senior Embedded Software Engineer
+
 **[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
 *May 2023 - Now*\
-*> 1 year 1 month*
+*> 1 year 4 month*
 
 Firmware development for NFC card readers, fingerprint sensors, and other access control devices. Integration of the devices with the main unit Linux software. Typical tasks:
 
@@ -136,6 +154,9 @@ the company. Some of the key initiatives I have undertaken include:
 - **Revamping the New Employee Onboarding Process**: I played a main role in revitalizing the onboarding process for new employees, ensuring a smooth transition for developers worldwide.
 - **Creating a Learning-Supportive Environment**: Collaborating with the team lead, I established an environment that promotes continuous learning within the team. This involved organizing regular team-wide learning sessions and allocating dedicated time for individual learning endeavors. I personally led five learning sessions to facilitate knowledge sharing and growth.
 - **Enhancing Team Communication and Collaboration**: To foster effective communication and collaboration, I introduced a series of meetings for reviewing team rules, synchronizing efforts at the start of each sprint, and ensuring alignment midway through.
+
+<div style="page-break-after: always;"></div>
+
 - **Developing an Extensive Team Documentation Space**: Recognizing the importance of easy access to information, I spearheaded the development of a comprehensive team documentation repository. This resource ensures that team members have quick and convenient access to critical information, enabling smoother project execution and knowledge sharing.
 
 #### Technology Stack
@@ -232,7 +253,9 @@ Activity: *My main area was in space data processing and recognition
 of the space satellites data. In parallel with work projects, I was
 doing image recognition research.*
 
-Tasks: 
+<div style="page-break-after: always;"></div>
+
+Tasks:
 
 - Research and development in space imagery (image recognition)
 - Development of experiments and experimental stands in support of
@@ -263,8 +286,6 @@ Tasks:
 #### Technology Stack
 
 `C`, `C++`, `Python`, `ColorForth`, `MATLAB`, `Visual Studio`, `AtmelStudio`, `Autodesk Inventor`, `Arduino`, `AVR`, `CANbus`, `CCD devices`, `CANbus`
-
-<div style="page-break-after: always;"></div>
 
 ## Personal
 
