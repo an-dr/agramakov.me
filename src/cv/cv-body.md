@@ -33,7 +33,7 @@ and support my team in the development process.
 
 |                                   |                                    |
 | ---:                              | ---                                |
-| **Programming languages**             | `C`, `C++`, `Python`, `PowerShell` |
+| **Programming languages**             | `C`, `C++`, `Rust`, `Python`, `PowerShell` |
 | **Processor architectures**           | `ARM` (STM32 series), `AVR8` (ATTiny/ATMega series), `GreenArray F18` (GA144), `RISC-V`, `SPARCv8` (LEON3), `Xtensa` (ESP32 series) |
 | **Communication protocols**           | `ARINC 429`, `CAN`, `CIP`, `I2C`, `RS-232`, `RS-422`, `RS-485`, `OPC UA`, `SPI`, `USB` |
 | **Tools and technologies**            | `GDB`, `Microsoft DAP`, `OpenOCD`, `C++ STL`, `FreeRTOS`, `OpenCV`, `CI/CD`, `Docker`, `Git`, `SVN`, `Bash`, `PowerShell`, `Agile`, `GitLab`, `GitHub`, `Jira`, `Redmine`, `SCRUM`, `SOLID` |
@@ -74,7 +74,7 @@ and support my team in the development process.
 
 **[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
 *June 2024 - Now*\
-*> 3 month*
+*> 0.5 year*
 
 Extra responsibilities to the Senior Embedded Software Engineer position:
 
@@ -91,7 +91,7 @@ Extra responsibilities to the Senior Embedded Software Engineer position:
 
 **[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
 *May 2023 - Now*\
-*> 1 year 4 month*
+*> 1.5 years*
 
 Firmware development for NFC card readers, fingerprint sensors, and other access control devices. Integration of the devices with the main unit Linux software. Typical tasks:
 
@@ -194,7 +194,7 @@ Extension, OpenOCD)
 
 ### Embedded Systems Programmer
 
-**[Scientific Production Enterprise Digital Solutions](https://dsol.ru/en/) - Moscow, Russia**\
+**[Scientific Production Enterprise Digital Solutions [RU]](https://dsol.ru) - Moscow, Russia**\
 *January 2018 - September 2018*\
 *9 months*
 
@@ -291,5 +291,5 @@ Tasks:
 
 | | |
 | --- | --- |
-| **Personal characteristics** |`proactive`, `collaborative`, `team player`, `positive`, `enthusiastic`, `consistent`, `detail-oriented` |
-| **Hobbies** |`robotics`, `wood crafting`, `fine arts`, `literature` |
+| **Personal characteristics** |`leader`, `proactive`, `collaborative`, `team player`, `positive`, `enthusiastic`, `consistent`, `detail-oriented` |
+| **Hobbies** |`robotics`, `wood crafting`, `photography`, `fine arts`, `literature` |
