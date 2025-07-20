@@ -70,11 +70,18 @@ and support my team in the development process.
 
 ## Employment History
 
+### Technical Team Lead
+
+**[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
+*July 2025 - Now*
+
+I took technical leadearship over the team I worked in as a Senior Embedded Software Engineer and Software Architect.
+
 ### Software Architect
 
 **[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
-*June 2024 - Now*\
-*> 0.5 year*
+*July 2024 - June 2025*\
+*1 year*
 
 Extra responsibilities to the Senior Embedded Software Engineer position:
 
@@ -90,8 +97,8 @@ Extra responsibilities to the Senior Embedded Software Engineer position:
 ### Senior Embedded Software Engineer
 
 **[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
-*May 2023 - Now*\
-*> 1.5 years*
+*May 2023 - June 2024*\
+*1 year 2 months*
 
 Firmware development for NFC card readers, fingerprint sensors, and other access control devices. Integration of the devices with the main unit Linux software. Typical tasks:
 
