@@ -31,17 +31,16 @@ and support my team in the development process.
 
 <br>
 
-|                                   |                                    |
-| ---:                              | ---                                |
-| **Programming languages**             | `C`, `C++`, `Rust`, `Python`, `PowerShell` |
-| **Processor architectures**           | `ARM` (STM32 series), `AVR8` (ATTiny/ATMega series), `GreenArray F18` (GA144), `RISC-V`, `SPARCv8` (LEON3), `Xtensa` (ESP32 series) |
-| **Communication protocols**           | `ARINC 429`, `CAN`, `CIP`, `I2C`, `RS-232`, `RS-422`, `RS-485`, `OPC UA`, `SPI`, `USB` |
-| **Tools and technologies**            | `GDB`, `Microsoft DAP`, `OpenOCD`, `C++ STL`, `FreeRTOS`, `OpenCV`, `CI/CD`, `Docker`, `Git`, `SVN`, `Bash`, `PowerShell`, `Agile`, `GitLab`, `GitHub`, `Jira`, `Redmine`, `SCRUM`, `SOLID` |
-| **PCB and schematic software**        | `Altium Designer`, `EAGLE CAD`, `Proteus`, `MultiSim`, `KiCAD` |
-| **CAD software**                      | `Autodesk Inventor`, `Autodesk AutoCAD`, `Fusion 360`, `SolidWorks` |
-| **Mathematical modeling**             | `MathCAD`, `MATLAB`, `Octave`, `SciPy` |
-| **Databases**                         | `MS Access`, `SQL`    | 
-
+|                                |                                                                                                                                                                                             |
+| -----------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      **Programming languages** | `C`, `C++`, `Rust`, `Python`, `PowerShell`                                                                                                                                                  |
+|    **Processor architectures** | `ARM` (STM32 series), `AVR8` (ATTiny/ATMega series), `GreenArray F18` (GA144), `RISC-V`, `SPARCv8` (LEON3), `Xtensa` (ESP32 series)                                                         |
+|    **Communication protocols** | `ARINC 429`, `CAN`, `CIP`, `I2C`, `RS-232`, `RS-422`, `RS-485`, `OPC UA`, `SPI`, `USB`                                                                                                      |
+|     **Tools and technologies** | `GDB`, `Microsoft DAP`, `OpenOCD`, `C++ STL`, `FreeRTOS`, `OpenCV`, `CI/CD`, `Docker`, `Git`, `SVN`, `Bash`, `PowerShell`, `Agile`, `GitLab`, `GitHub`, `Jira`, `Redmine`, `SCRUM`, `SOLID` |
+| **PCB and schematic software** | `Altium Designer`, `EAGLE CAD`, `Proteus`, `MultiSim`, `KiCAD`                                                                                                                              |
+|               **CAD software** | `Autodesk Inventor`, `Autodesk AutoCAD`, `Fusion 360`, `SolidWorks`                                                                                                                         |
+|      **Mathematical modeling** | `MathCAD`, `MATLAB`, `Octave`, `SciPy`                                                                                                                                                      |
+|                  **Databases** | `MS Access`, `SQL`                                                                                                                                                                          |
 
 
 ## Languages
@@ -162,8 +161,6 @@ the company. Some of the key initiatives I have undertaken include:
 - **Creating a Learning-Supportive Environment**: Collaborating with the team lead, I established an environment that promotes continuous learning within the team. This involved organizing regular team-wide learning sessions and allocating dedicated time for individual learning endeavors. I personally led five learning sessions to facilitate knowledge sharing and growth.
 - **Enhancing Team Communication and Collaboration**: To foster effective communication and collaboration, I introduced a series of meetings for reviewing team rules, synchronizing efforts at the start of each sprint, and ensuring alignment midway through.
 
-<div style="page-break-after: always;"></div>
-
 - **Developing an Extensive Team Documentation Space**: Recognizing the importance of easy access to information, I spearheaded the development of a comprehensive team documentation repository. This resource ensures that team members have quick and convenient access to critical information, enabling smoother project execution and knowledge sharing.
 
 #### Technology Stack
@@ -260,8 +257,6 @@ Activity: *My main area was in space data processing and recognition
 of the space satellites data. In parallel with work projects, I was
 doing image recognition research.*
 
-<div style="page-break-after: always;"></div>
-
 Tasks:
 
 - Research and development in space imagery (image recognition)
@@ -296,7 +291,7 @@ Tasks:
 
 ## Personal
 
-| | |
-| --- | --- |
-| **Personal characteristics** |`leader`, `proactive`, `collaborative`, `team player`, `positive`, `enthusiastic`, `consistent`, `detail-oriented` |
-| **Hobbies** |`robotics`, `wood crafting`, `photography`, `fine arts`, `literature` |
+|                              |                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Personal characteristics** | `leader`, `proactive`, `collaborative`, `team player`, `positive`, `enthusiastic`, `consistent`, `detail-oriented` |
+| **Hobbies**                  | `robotics`, `wood crafting`, `photography`, `fine arts`, `literature`                                              |
