@@ -1,4 +1,5 @@
-# Andrei Gramakov - Embedded Systems Engineer
+# Andrei Gramakov
+## Senior Embedded Software Engineer & Software Architect (CPSA-F)
 <!--  -->
 <br>
 <br>

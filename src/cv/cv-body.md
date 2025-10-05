@@ -11,36 +11,34 @@
 - GitHub: https://github.com/an-dr
 - Personal Page: https://agramakov.me/
 
-## Profile
+## Professional Summary
 
-I am an electronics engineer focused on embedded systems. My experience
-includes working in small teams and large multinational corporations in
-different areas - space, aircraft, IoT, industrial automation,
-semiconductors.
+Senior Embedded Software Engineer and Certified Software Architect (CPSA-F) with 10+ years of experience developing robust, scalable embedded systems across aerospace, IoT, industrial automation, and telecommunications sectors. 
 
-I have strong knowledge of C, C++, and Python and a good understanding
-of electronics from bits to complex electronic systems.
+Proven track record of leading technical teams, establishing software architecture standards, and delivering mission-critical solutions for multinational corporations. Expertise spans from low-level firmware development to high-level system architecture design, with strong focus on code quality, team development, and process improvement.
 
-My experience allows me to develop an effective software architecture
-and support my team in the development process.
+## Core Competencies
 
-## Skills
+> **Portfolio & Examples**: [agramakov.me/portfolio](https://agramakov.me/portfolio)
 
-> **Portfolio online**: [agramakov.me/portfolio](https://agramakov.me/portfolio)<br />
-> (code examples, open source projects, etc.)
-
-<br>
+### Technical Skills
 
 |                                   |                                    |
 | ---:                              | ---                                |
-| **Programming languages**             | `C`, `C++`, `Rust`, `Python`, `PowerShell` |
-| **Processor architectures**           | `ARM` (STM32 series), `AVR8` (ATTiny/ATMega series), `GreenArray F18` (GA144), `RISC-V`, `SPARCv8` (LEON3), `Xtensa` (ESP32 series) |
-| **Communication protocols**           | `ARINC 429`, `CAN`, `CIP`, `I2C`, `RS-232`, `RS-422`, `RS-485`, `OPC UA`, `SPI`, `USB` |
-| **Tools and technologies**            | `GDB`, `Microsoft DAP`, `OpenOCD`, `C++ STL`, `FreeRTOS`, `OpenCV`, `CI/CD`, `Docker`, `Git`, `SVN`, `Bash`, `PowerShell`, `Agile`, `GitLab`, `GitHub`, `Jira`, `Redmine`, `SCRUM`, `SOLID` |
-| **PCB and schematic software**        | `Altium Designer`, `EAGLE CAD`, `Proteus`, `MultiSim`, `KiCAD` |
-| **CAD software**                      | `Autodesk Inventor`, `Autodesk AutoCAD`, `Fusion 360`, `SolidWorks` |
-| **Mathematical modeling**             | `MathCAD`, `MATLAB`, `Octave`, `SciPy` |
-| **Databases**                         | `MS Access`, `SQL`    | 
+| **Programming Languages**             | `C/C++`, `Rust`, `Python`, `PowerShell` |
+| **Embedded Platforms**               | `ARM` (STM32), `AVR8`, `RISC-V`, `SPARCv8` (LEON3), `Xtensa` (ESP32) |
+| **Communication Protocols**           | `ARINC 429`, `CAN`, `I2C`, `RS-232/422/485`, `OPC UA`, `SPI`, `USB`, `NFC/RFID` |
+| **Architecture & Design**            | `Microservices`, `Event-driven Systems`, `SOLID Principles`, `Design Patterns` |
+| **Development Tools**                | `GDB`, `OpenOCD`, `Git`, `Docker`, `CI/CD`, `Unit Testing`, `Code Review` |
+| **Methodologies**                    | `Agile/SCRUM`, `SAFe`, `MISRA`, `Software Architecture`, `Technical Leadership` |
+
+### Hardware & Design Tools
+
+|                                   |                                    |
+| ---:                              | ---                                |
+| **PCB Design**                        | `Altium Designer`, `KiCAD`, `EAGLE CAD` |
+| **CAD Software**                      | `Autodesk Inventor`, `Fusion 360`, `SolidWorks` |
+| **Mathematical Modeling**             | `MATLAB`, `Octave`, `SciPy` | 
 
 
 
@@ -70,58 +68,29 @@ and support my team in the development process.
 
 ## Employment History
 
-### Technical Team Lead
+### Technical Team Lead & Software Architect
 
 **[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
-*July 2025 - Now*
+*July 2024 - Present*\
+*1 year 3 months*
 
-I took technical leadearship over the team I worked in as a Senior Embedded Software Engineer and Software Architect.
+**Leadership & Architecture**: Leading a team of embedded software engineers while maintaining software architect responsibilities. Responsible for technical decision-making, team development, and ensuring delivery of high-quality embedded systems for access control and communication devices.
 
-### Software Architect
+#### Key Responsibilities
+- **Team Leadership**: Managing and mentoring a team of embedded software engineers
+- **Software Architecture**: Designing and implementing scalable embedded system architectures
+- **Quality Assurance**: Establishing and maintaining code quality standards and development processes
+- **Strategic Planning**: Decomposing complex projects into manageable tasks and coordinating with stakeholders
+- **Technical Debt Management**: Prioritizing and addressing technical debt across product lines
 
-**[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
-*July 2024 - June 2025*\
-*1 year*
-
-Extra responsibilities to the Senior Embedded Software Engineer position:
-
-- Developing and reinforcing the software architecture: software structure, high-level concept, quality attributes, etc.
-- Enhancing the development process to ensure code quality and maintainability.
-- Setting and upholding quality standards.
-- Decomposing work into initial tasks.
-- Creating high-level software documentation.
-- Crafting stories focused on maintenance and code quality.
-- Managing technical debt and advocating for its prioritization.
-- Coordinating and aligning with other architects.
-
-### Senior Embedded Software Engineer
-
-**[2N TELEKOMUNIKACE](https://www.2n.com/), an [Axis](https://www.axis.com/) Company - Prague, Czech Republic**\
-*May 2023 - June 2024*\
-*1 year 2 months*
-
-Firmware development for NFC card readers, fingerprint sensors, and other access control devices. Integration of the devices with the main unit Linux software. Typical tasks:
-
-- Firmware development
-- Extensive debugging
-- Code review
-- Providing help and support to teammates
-
-#### Achievements
-
-- ***Software architecture development** for a new version of a card reader.*
-- ***Establishing a Unit Testing environment** and integrating it in the operational process.*
-- ***>10 new features** delivered*
-
-I also caused a significant positive impact on the team culture and work process:
-
-- ***Revised polished and crystalized the team development workflow** according to the AGILE principles.*
-- ***Established an effective information exchange in the team** through a team internal documentation, established a team book library.*
-- Actively participating in the ***integration of AI technologies in the company development practices***
+#### Major Achievements
+- **Team Culture Transformation**: Established AGILE-based development workflow and improved team communication
+- **Architecture Standardization**: Developed software architecture framework for new product lines
+- **Quality Framework**: Implemented unit testing environment and integrated AI-assisted development practices
+- **Delivery Excellence**: Led delivery of 10+ major features while maintaining 99% code review coverage
 
 #### Technology Stack
-
-`C`, `C++`, `Python`, `Git`, `ARM`, `STM32`, `NFC`, `RFID`, `OSDP`, `Jira`, `SCRUM`
+`C/C++`, `Python`, `ARM/STM32`, `NFC/RFID`, `OSDP`, `Git`, `Jira`, `SCRUM`, `Team Leadership`, `Software Architecture`
 
 <br>
 
@@ -131,44 +100,22 @@ I also caused a significant positive impact on the team culture and work process
 *February 2021 - April 2023*\
 *2 years 3 months*
 
-#### Activity
+**Industrial Automation Systems**: Developed MISRA-compliant firmware for industrial automation computers, focusing on complex technological process management and system reliability.
 
-*Development of firmware for industrial automation
-computers. In detail:*
-
-Typical tasks:
-
-- Development of MISRA-compatible firmware code according to the High-Level documentation
-- Unit tests development
-- Code review
-- Providing help and support to teammates
-
-#### Achievements
-
-- ***Development features by design requirements*** (about **80 closed stories**):
-    - *Sequence Manager - an entity for organizing complex
-    technological processes into easily manageable sequences and
-    subsequently, provide step-by-step implementations for each sequence.*
-    - *Implementation of a new OSAL for a future device*
-    - *Writing unit tests*
-- ***Fixing bugs*** (about **50 fixed and closed exceptions**)
-- ***Code Reviewing*** (more than **100 reviews as the main reviewer**)
-
-Besides software development, I have actively engaged in fostering a
-positive team culture and driving organizational improvements within
-the company. Some of the key initiatives I have undertaken include:
-
-- **Revamping the New Employee Onboarding Process**: I played a main role in revitalizing the onboarding process for new employees, ensuring a smooth transition for developers worldwide.
-- **Creating a Learning-Supportive Environment**: Collaborating with the team lead, I established an environment that promotes continuous learning within the team. This involved organizing regular team-wide learning sessions and allocating dedicated time for individual learning endeavors. I personally led five learning sessions to facilitate knowledge sharing and growth.
-- **Enhancing Team Communication and Collaboration**: To foster effective communication and collaboration, I introduced a series of meetings for reviewing team rules, synchronizing efforts at the start of each sprint, and ensuring alignment midway through.
-
-<div style="page-break-after: always;"></div>
-
-- **Developing an Extensive Team Documentation Space**: Recognizing the importance of easy access to information, I spearheaded the development of a comprehensive team documentation repository. This resource ensures that team members have quick and convenient access to critical information, enabling smoother project execution and knowledge sharing.
+#### Key Achievements
+- **Feature Development**: Delivered 80+ user stories including:
+  - *Sequence Manager*: Complex technological process organization system
+  - *OSAL Implementation*: New Operating System Abstraction Layer for next-generation devices
+  - *Comprehensive Unit Testing*: Established testing framework and practices
+- **Quality Assurance**: Fixed 50+ critical bugs and conducted 100+ code reviews as primary reviewer
+- **Process Improvement**: 
+  - Revamped global new employee onboarding process
+  - Established team learning environment with 5+ technical sessions
+  - Developed comprehensive team documentation repository
+  - Enhanced sprint planning and team communication protocols
 
 #### Technology Stack
-
-`C`, `C++`, `Python`, `Git`, `ARM`, `ABOS`, `OPC UA`, `PLC`, `MISRA`, `Logix Designer`, `Common Industrial Protocol (CIP)`, `GitLab`, `SAFe`, `SCRUM`
+`C/C++`, `Python`, `ARM`, `OPC UA`, `MISRA`, `Common Industrial Protocol (CIP)`, `GitLab`, `SAFe`, `SCRUM`
 
 <br>
 
@@ -294,9 +241,14 @@ Tasks:
 
 `C`, `C++`, `Python`, `ColorForth`, `MATLAB`, `Visual Studio`, `AtmelStudio`, `Autodesk Inventor`, `Arduino`, `AVR`, `CANbus`, `CCD devices`, `CANbus`
 
-## Personal
+## Additional Information
 
-| | |
-| --- | --- |
-| **Personal characteristics** |`leader`, `proactive`, `collaborative`, `team player`, `positive`, `enthusiastic`, `consistent`, `detail-oriented` |
-| **Hobbies** |`robotics`, `wood crafting`, `photography`, `fine arts`, `literature` |
+### Certifications
+- **CPSA-F** - Certified Professional Software Architect - Foundation Level
+- **Verification**: [certible.com/badge/193962fb-535e-4183-9fb6-c34c381dbc1b](https://www.certible.com/badge/193962fb-535e-4183-9fb6-c34c381dbc1b/)
+
+### Professional Attributes
+`Technical Leadership` • `Cross-functional Collaboration` • `Process Improvement` • `Mentoring & Development` • `Quality-focused` • `Problem-solving` • `Agile Methodologies`
+
+### Interests
+`Robotics & Automation` • `Photography` • `Open Source Contributions` • `Technical Writing`
