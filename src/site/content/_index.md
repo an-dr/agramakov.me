@@ -1,22 +1,30 @@
-### EMPLOYMENT
+Hi, I'm Andrei. I respect your time. TL;DR:
+
+- **🧑‍💻 Embedded Software Engineer**
+- **👥 Technical Team Leader**
+- **📐 [iSAQB® Certified Professional Software Architect](https://www.certible.com/badge/193962fb-535e-4183-9fb6-c34c381dbc1b/)**
+- 🤖 Robotics Enthusiast
+- 📷 Hobby Photographer
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mail@agramakov.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agramakov)
 
 <br>
 
+### Professional
+
+<br>
+
+[![Andrei_Gramakov_CV.pdf](https://img.shields.io/badge/Download_CV--green?style=social&logo=Read.cv&link=https://agramakov.me/cv-pdf)](https://agramakov.me/cv-pdf)
+[![Web](https://img.shields.io/badge/CV_Page_-View-green?style=social&logo=Read.cv&link=https://agramakov.me/cv-online)](https://agramakov.me/cv-online)
 
 
 <!-- Table -->
 | --- |
 | --- |
-| 💼: [2N, an AXIS Company](https://www.2n.com/en-US/about-2n/) |
-| 🪪: Software Architect / Senior Software Engineer ([*details*](https://agramakov.me/cv-online/#employment-history))|
-| 📍: Prague, Czech Republic |
-
-[![Andrei_Gramakov_CV.pdf](https://img.shields.io/badge/Download_CV--green?style=social&logo=Read.cv&link=https://agramakov.me/cv-pdf)](https://agramakov.me/cv-pdf)
-[![Web](https://img.shields.io/badge/CV_Page_-View-green?style=social&logo=Read.cv&link=https://agramakov.me/cv-online)](https://agramakov.me/cv-online)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:mail@agramakov.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/agramakov)
-[![go to portfolio](https://img.shields.io/badge/Portolio-See-green?style=flat&logo=Read.cv&link=https://agramakov.me/cv-pdf)](https://agramakov.me/portfolio)
+| 💼 [2N, an AXIS Company](https://www.2n.com/en-US/about-2n/) |
+| 🪪 Tech Lead & Software Architect ([*details*](https://agramakov.me/cv-online/#employment-history))|
+| 📍 Prague, Czech Republic |
 
 <br>
 
