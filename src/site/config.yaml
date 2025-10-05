@@ -2,14 +2,14 @@ baseURL: 'https://agramakov.me'
 languageCode: 'en-us'
 pagination.pagerSize: 3
 theme: 'maverick-mod'
-title: 'Andrei Gramakov'
+title: 'Andrei Grama(kov)'
 
 permalinks:
   pages: '/:slug'
 
 params:
-  author: 'Andrei Gramakov'
-  description: 'Personal page of Andrei Gramakov'
+  author: 'Andrei Grama(kov)'
+  description: 'Personal page of Andrei Grama(kov)'
   logo: '/assets/favicon-package/favicon.ico'
   comments:
     enabled: true

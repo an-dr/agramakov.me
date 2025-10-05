@@ -1,4 +1,4 @@
-# Andrei Gramakov - Embedded Systems Engineer
+# Andrei Grama(kov) - Embedded Systems Engineer
 <!--  -->
 <br>
 <br>

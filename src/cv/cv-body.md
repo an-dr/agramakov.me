@@ -7,7 +7,7 @@
 
 **LINKS**
 
-- LinkedIn: https://www.linkedin.com/in/agramakov/
+- LinkedIn: https://www.linkedin.com/in/agrama/
 - GitHub: https://github.com/an-dr
 - Personal Page: https://agramakov.me/
 
