@@ -23,7 +23,7 @@ menu:
       weight: -100
       
     - name: 'CV PAGE'
-      pageRef: /cv-online
+      pageRef: cv-online
       weight: -110
       
     #- name: 'CV PDF'
